@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/classes-9219fd642a72bf4ace380f90819730ae75146da6.jar"
+        jar="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/exploded-aar/TheMovieApp.app.libraries/cards-ui/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81da499070162ba8b20002f96ba2a09ed7da90f6"/>
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-b4445cd4cce59e966fc71239373622b58562f888.jar"
+        jar="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8"/>
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/classes-f82465a68fe0fc40a24e1ceaac1e6c09b90872a4.jar"
+        jar="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8b3d9a7b348d8bcfb4d740dfaf70bc374cdae9d6"/>
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-40f66e5489d3d5fad10cf9083ead2de6736e0ea8.jar"
+        jar="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/libs/picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a"/>
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-9c99eaedf0914f830bf8f3e658fbd01b8140ceba.jar"
+        jar="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-20f9cb621d95190d21be73d4f1d400b3688c148e.jar"
+        jar="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/exploded-aar/TheMovieApp.app.libraries/cards-ui/unspecified/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7"/>
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/classes-9301337cde95bbc36ba580ba601930cc05f02df6.jar"
+        jar="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/classes-53bc8eaab263be0d408cea6ba3a76154fc67ce02.jar"
+        jar="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+    <item
+        dex="/home/jide/Documents/Developer/AndroidStudio/TheMovieApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-46343f13dc8a8d80032074a2865adb0d89f89059.jar"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+
+</pre-dex-items>

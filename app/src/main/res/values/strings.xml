@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Box Office</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="tab_items">
+        <item>Movies</item>
+        <item>TV Shows</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading...</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">Box Office</string>
+    <string name="title_section2">Showing Now</string>
+    <string name="title_section3">New Release</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_about">About</string>
+
+</resources>
